@@ -1,0 +1,57 @@
+Nombre,Estado,Potencia_dB,Habitabilidad
+Piso 1 - Salón 101,Libre,58,Zona Aceptable
+Piso 1 - Salón 102,En Uso,62,Zona Aceptable
+Piso 1 - Salón 103,Libre,56,Zona Aceptable
+Piso 1 - Salón 104,Libre,57,Zona Aceptable
+Piso 1 - Salón 105,Libre,46,Zona Tranquila
+Piso 1 - Salón 106,En Uso,78,Zona Ruidosa
+Piso 1 - Salón 107,Libre,63,Zona Aceptable
+Piso 2 - Salón 201,Libre,89,Zona Ruidosa
+Piso 2 - Salón 202,En Uso,59,Zona Aceptable
+Piso 2 - Salón 203,En Uso,51,Zona Aceptable
+Piso 2 - Salón 204,En Uso,61,Zona Aceptable
+Piso 2 - Salón 205,En Uso,80,Zona Ruidosa
+Piso 2 - Salón 206,Libre,57,Zona Aceptable
+Piso 2 - Salón 207,Libre,71,Zona Ruidosa
+Piso 3 - Salón 301,En Uso,53,Zona Aceptable
+Piso 3 - Salón 302,En Uso,67,Zona Aceptable
+Piso 3 - Salón 303,En Uso,60,Zona Aceptable
+Piso 3 - Salón 304,En Uso,84,Zona Ruidosa
+Piso 3 - Salón 305,En Uso,62,Zona Aceptable
+Piso 3 - Salón 306,En Uso,50,Zona Aceptable
+Piso 3 - Salón 307,En Uso,55,Zona Aceptable
+Piso 4 - Salón 401,Libre,59,Zona Aceptable
+Piso 4 - Salón 402,En Uso,45,Zona Tranquila
+Piso 4 - Salón 403,En Uso,48,Zona Tranquila
+Piso 4 - Salón 404,Libre,69,Zona Aceptable
+Piso 4 - Salón 405,Libre,88,Zona Ruidosa
+Piso 4 - Salón 406,Libre,69,Zona Aceptable
+Piso 4 - Salón 407,En Uso,49,Zona Tranquila
+Piso 5 - Salón 501,Libre,58,Zona Aceptable
+Piso 5 - Salón 502,Libre,86,Zona Ruidosa
+Piso 5 - Salón 503,En Uso,89,Zona Ruidosa
+Piso 5 - Salón 504,Libre,80,Zona Ruidosa
+Piso 5 - Salón 505,Libre,67,Zona Aceptable
+Piso 5 - Salón 506,Libre,70,Zona Aceptable
+Piso 5 - Salón 507,En Uso,89,Zona Ruidosa
+Piso 6 - Salón 601,En Uso,79,Zona Ruidosa
+Piso 6 - Salón 602,En Uso,52,Zona Aceptable
+Piso 6 - Salón 603,En Uso,74,Zona Ruidosa
+Piso 6 - Salón 604,En Uso,87,Zona Ruidosa
+Piso 6 - Salón 605,Libre,55,Zona Aceptable
+Piso 6 - Salón 606,En Uso,41,Zona Tranquila
+Piso 6 - Salón 607,Libre,40,Zona Tranquila
+Piso 7 - Salón 701,En Uso,82,Zona Ruidosa
+Piso 7 - Salón 702,En Uso,50,Zona Aceptable
+Piso 7 - Salón 703,Libre,62,Zona Aceptable
+Piso 7 - Salón 704,En Uso,70,Zona Aceptable
+Piso 7 - Salón 705,En Uso,84,Zona Ruidosa
+Piso 7 - Salón 706,Libre,82,Zona Ruidosa
+Piso 7 - Salón 707,Libre,90,Zona Ruidosa
+Piso 8 - Salón 801,En Uso,81,Zona Ruidosa
+Piso 8 - Salón 802,En Uso,52,Zona Aceptable
+Piso 8 - Salón 803,En Uso,80,Zona Ruidosa
+Piso 8 - Salón 804,En Uso,73,Zona Ruidosa
+Piso 8 - Salón 805,Libre,86,Zona Ruidosa
+Piso 8 - Salón 806,Libre,78,Zona Ruidosa
+Piso 8 - Salón 807,Libre,50,Zona Aceptable
