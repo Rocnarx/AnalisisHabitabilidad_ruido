@@ -7,8 +7,6 @@ matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import networkx as nx
-
-# Importar funciones y módulos de tu proyecto
 from grafo import GrafoDeHabitabilidad
 from visualizacion import visualizar_grafo_con_matching
 from Listas import (
@@ -64,12 +62,10 @@ class App(tk.Tk):
         btn_salir = ttk.Button(control_frame, text="Salir", command=self.quit)
         btn_salir.pack(pady=10)
         
-        # Al iniciar, se crean (si no existen) y se leen los CSV y se genera el grafo.
         self.cargar_datos_y_grafo()
-        self.ver_edificio()  # Mostrar por defecto el edificio completo.
+        self.ver_edificio()  
     
     def cargar_datos_y_grafo(self):
-        # Si no existen los CSV, generarlos.
         if not os.path.exists("salones.csv"):
             datos_salones = generar_datos_salones()
             campos_salones = ["Nombre", "Estado", "Potencia_dB", "Habitabilidad"]
@@ -92,7 +88,6 @@ class App(tk.Tk):
         # Generar el grafo.
         self.grafo_obj = GrafoDeHabitabilidad()
         self.grafo_obj.generar_grafo(self.resultados)
-        # Asignar un valor de "ruido" a cada nodo según su Habitabilidad.
         for nodo, datos in self.grafo_obj.grafo.nodes(data=True):
             hab = datos.get("habitabilidad")
             if hab == "Zona Tranquila":
